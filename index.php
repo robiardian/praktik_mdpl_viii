@@ -9,5 +9,9 @@
 <body>
     <h2>materi pertemuan ke 6 </h2>
     <p>Tes git remote</P>
+    <ul>
+        <li>aaa</li>
+        <li>bbb</li>
+    </ul>
 </body>
 </html>
